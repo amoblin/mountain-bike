@@ -8,3 +8,4 @@ This file is created by Marboo<http://marboo.io> template file $MARBOO_HOME/.med
 本文件由 Marboo<http://marboo.io> 模板文件 $MARBOO_HOME/.media/starts/default.md 创建
 -->
 
+辐条：又称钢线，英文名Spoke。

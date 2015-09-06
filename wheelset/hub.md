@@ -8,7 +8,7 @@ This file is created by Marboo<http://marboo.io> template file $MARBOO_HOME/.med
 本文件由 Marboo<http://marboo.io> 模板文件 $MARBOO_HOME/.media/starts/default.md 创建
 -->
 
-花鼓，音译，英文名Hub
+花鼓，是英文名Hub的音译，又称车轴。
 
 分培林(Bearing)轴承和珠档轴承。
 
