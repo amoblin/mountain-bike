@@ -16,3 +16,13 @@ This file is created by Marboo<http://marboo.io> template file $MARBOO_HOME/.med
 2. DH(Down Hill) 速降车
 3. FS(Full Suspension)全减震越野车
 4. XC--Cross Country：越野车（通常为越野车）
+5. Trail 林道车
+6. AM = All Mountain 全山地
+7. EN = Enduro耐力赛
+1. FR = Freeride 自由骑
+1. DJ = Dirt Jump土坡腾跃
+1. 4X = Four Cross 四人对抗赛车
+1. ST = Street/Urban 街式车
+1. SS = Slope Style 花式下山
+
+http://jingyan.baidu.com/article/0320e2c1e19d661b87507bf8.html
