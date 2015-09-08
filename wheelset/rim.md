@@ -20,4 +20,14 @@ This file is created by Marboo<http://marboo.io> template file $MARBOO_HOME/.med
 
 目前国内广泛使用的车圈品牌有：MAVIC,ALEX,SUN,DT等。
 
+- ALEX： http://www.alexrims.com/
+
+
 http://baike.baidu.com/view/1430477.htm
+
+
+## 入门级 - ALEX DP20/DH19
+
+http://www.alexrims.com/product_detail.asp?sc=1&cat=19&cat2=21&pid=69
+
+

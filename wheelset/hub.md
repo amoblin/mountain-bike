@@ -10,6 +10,6 @@ This file is created by Marboo<http://marboo.io> template file $MARBOO_HOME/.med
 
 花鼓，是英文名Hub的音译，又称车轴。
 
-分培林(Bearing)轴承和珠档轴承。
+分培林(Bearing)轴承和珠档（滚珠）轴承。
 
 分旋式和卡式。
